@@ -21,6 +21,7 @@
 }
 body{
     font-family: poppins-regular;
+    overflow-x: hidden;
 }
 ul{
     list-style-type: none;
